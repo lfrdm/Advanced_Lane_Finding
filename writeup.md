@@ -11,6 +11,8 @@ The goals / steps of this project are the following:
 * Warp the detected lane boundaries back onto the original image.
 * Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
 
+---
+
 [//]: # (Image References)
 [image1]: ./output_images/calibartion.gif "Original to undistorted version"
 [image2]: ./output_images/original_undist.gif "Original to undistorted version"
@@ -18,7 +20,7 @@ The goals / steps of this project are the following:
 [image4]: ./output_images/warped_mask.gif "Perspective transformed"
 [image5]: ./output_images/warped_polynomials.gif "Fitted polynomials"
 [image6]: ./output_images/result.jpg "Final output"
----
+
 ## Camera Calibration
 
 ### Camera matrix and distortion coefficients
